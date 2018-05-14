@@ -1,7 +1,12 @@
 ﻿first line.
 second line.
 third line.
+<<<<<<< HEAD
 
 하염
 
 히히히히 난 vi 고수당 히히히
+
+FORTH LINE.
+형하염
+>>>>>>> 7ef87f1b8fcb41b7785787bf60d17bf5ddee178a
