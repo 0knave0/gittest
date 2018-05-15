@@ -1,6 +1,7 @@
 ﻿first line.
 second line.
 third line.
+<<<<<<< HEAD
 
 하염
 
@@ -8,3 +9,4 @@ third line.
 
 FORTH LINE.
 형하염
+>>>>>>> 7ef87f1b8fcb41b7785787bf60d17bf5ddee178a
